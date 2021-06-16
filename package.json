@@ -38,7 +38,8 @@
   "dependencies": {
     "classnames": "~2.2.6",
     "lodash": "~4.17.12",
-    "prop-types": "^15.7.2"
+    "prop-types": "^15.7.2",
+    "react-tag-input": "git+ssh://git@github.com:QCM-Media/react-tags.git"
   },
   "devDependencies": {
     "@testing-library/react": "^11.2.7",
